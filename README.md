@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harshdeep Singh Dhami
 
 📍 Montreal, QC  
-📧 harshessentials@gmail.com  
+📧 dhamiputtar@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-dhami)
 
 ---
