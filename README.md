@@ -1,39 +1,131 @@
-# Hi there, I'm Harshdeep Singh Dhami 👋
+# 👋 Hi, I'm Harshdeep Singh Dhami
 
-I am an IT professional and Networking & Security student based in Montreal. I don't just study IT theory—I build it. My GitHub is a repository of my automation scripts, network configurations, and enterprise lab documentation.
+📍 Montreal, QC  
+📧 harshessentials@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/harsh-dhami)
 
-### 🛠️ What I'm Building
-- *Enterprise Home Lab:* Deploying Windows Server 2022 Domain Controllers, configuring AD DS, DNS, DHCP, and enforcing security through GPO & RBAC.
-- *Network Engineering:* Designing complex routing topologies using Cisco CML and Packet Tracer (OSPF, EIGRP).
-- *IT Automation:* Writing PowerShell and Python scripts to automate Active Directory user provisioning (like fetching OTPs via Gmail APIs) and streamline IT support workflows.
-- *ITSM Integration:* Simulating incident lifecycles and backend workflows in ServiceNow.
+---
 
-### 💻 Tech Stack & Tools
-- *Infrastructure:* Windows Server 2022, Active Directory, VMware Workstation
-- *Networking:* Cisco Routing & Switching, LAN/WAN Fundamentals
-- *Scripting & Code:* PowerShell, Python
-- *Security & IAM:* RBAC, GPO, NTFS Permissions
+## 🧠 About Me
 
-## 📬 Get in Touch
+Aspiring IT Professional and Networking & Security student with hands-on experience in enterprise infrastructure and automation.
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-dhami?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- Read more of my articles on [dhami.dev](https://dhami.dev)
-- Heres my [Instagram](https://www.instagram.com/harshdeep.singhhh)
+I specialize in:
+- Active Directory environments (AD DS, GPO, RBAC)
+- Cisco networking (OSPF, EIGRP, VLANs)
+- IT automation using PowerShell & Python
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+I focus on building scalable, secure systems and reducing manual workflows through automation.
 
+---
 
+## 🚀 Key Projects
 
-<!--
+### 🏢 Multi-Site Enterprise Network Configuration
+- Designed and implemented a multi-site network using VLANs and OSPF
+- Optimized traffic flow with EIGRP and NAT (high-load scenarios)
+- Resolved 15+ complex configuration issues during troubleshooting
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ ServiceNow Incident Management Framework
+- Built a simulated ITSM workflow for incident tracking and resolution
+- Improved incident response time by **25%**
+- Created standardized response templates aligned with SLA metrics
+
+---
+
+### ☁️ Azure Cloud User Provisioning
+- Automated user provisioning in Azure Active Directory (50+ users)
+- Implemented hybrid identity with on-prem AD sync
+- Enforced security using Multi-Factor Authentication (MFA)
+
+---
+
+### ⚙️ Active Directory PowerShell Automation
+- Developed PowerShell scripts to automate:
+  - Bulk user provisioning
+  - Group policy updates
+- Reduced manual administrative effort significantly
+
+---
+
+### 🖥️ SCCM Client Deployment & Patching
+- Standardized software deployment using SCCM
+- Maintained **100% patch compliance** across systems
+- Automated patch scheduling and reporting workflows
+
+---
+
+## 💻 Tech Stack
+
+### 🧱 Infrastructure
+- Windows Server 2022  
+- Active Directory (AD DS)  
+- VMware Workstation  
+- SCCM  
+
+### 🌐 Networking
+- Cisco Routing & Switching  
+- OSPF, EIGRP, VLANs, NAT  
+- LAN/WAN Fundamentals  
+
+### 🧑‍💻 Scripting
+- PowerShell  
+- Python  
+
+### 🔐 Security & IAM
+- RBAC  
+- Group Policy (GPO)  
+- NTFS Permissions  
+- Multi-Factor Authentication (MFA)  
+
+---
+
+## 📊 Technical Highlights
+
+- 🚀 Reduced admin workload by **40%** through automation  
+- 🧾 Eliminated manual data entry errors via script validation  
+- ⚡ Improved incident response speed by **25%**  
+- 🔒 Maintained **100% compliance** in patch management  
+
+---
+
+## 🎓 Education
+
+**LaSalle College, Montreal**  
+DEC in Networking & Security  
+📅 Expected: Nov 2026  
+
+Relevant Coursework:
+- Advanced Cisco Routing  
+- Windows Server Management  
+- Cybersecurity Fundamentals  
+
+---
+
+## 🧠 Professional Attributes
+
+- **AI Literacy:** Leveraging LLM tools for scripting & documentation  
+- **Cognitive Agility:** Strong problem-solving across technical domains  
+- **Communication:** Fluent in English, learning French 🇫🇷  
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Active Directory Security  
+- SIEM tools (Splunk / Wazuh)  
+- Cloud Security (Azure / IAM hardening)  
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-dhami)  
+- 🌐 Portfolio: https://dhami.dev  
+- 📸 Instagram: https://www.instagram.com/harshdeep.singhhh  
+
+---
+
+⭐ *If you like my work, feel free to check out my repos and drop a star!*
