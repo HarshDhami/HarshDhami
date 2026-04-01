@@ -4,7 +4,7 @@
 📧 dhamiputtar@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-dhami)
 
----
+---a
 
 ## 🧠 About Me
 
@@ -79,6 +79,35 @@ I focus on building scalable, secure systems and reducing manual workflows throu
 - Group Policy (GPO)  
 - NTFS Permissions  
 - Multi-Factor Authentication (MFA)  
+
+---
+
+## 🌐 Web Development & Self-Hosting
+
+### 💻 Full-Stack Web Development
+- Built and deployed modern web applications using:
+  - React, Next.js, and Vite  
+  - Node.js and Express (backend services & APIs)  
+- Implemented REST APIs, authentication flows, and dynamic data handling  
+- Worked with Firebase for real-time databases, authentication, and hosting  
+- Focused on performance optimization, clean UI, and scalable architecture  
+
+---
+
+### 🚀 Self-Hosting & VPS Management
+- Deployed and managed multiple applications on Linux-based VPS environments  
+- Configured Nginx reverse proxy for domain routing and multi-app hosting  
+- Used PM2 for process management and uptime reliability  
+- Handled domain setup, DNS configuration, and SSL (HTTPS) provisioning  
+- Debugged production issues including port conflicts, server errors, and deployment failures  
+
+---
+
+### ⚙️ DevOps & Deployment Workflow
+- Managed projects using Git and GitHub with clean repository practices  
+- Configured environments and handled build pipelines for production deployment  
+- Experience with Linux CLI, server configuration, and application monitoring  
+- Automated workflows for faster development and deployment cycles  
 
 ---
 
